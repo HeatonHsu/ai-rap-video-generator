@@ -2,7 +2,7 @@
 
 **[RapVideo AI](https://rapvideo-ai.io)** turns any photo into a short, lip-synced rap video. There's nothing to film and no rapping skills needed.
 
-üëâ Try it: **https://rapvideo-ai.io**
+👉 Try it: **https://rapvideo-ai.io**
 
 ## How it works
 
@@ -24,7 +24,7 @@ The AI writes original lyrics, generates a new beat and vocals, and animates the
 
 ## Popular uses
 
-Birthday roasts ¬∑ Pet videos ¬∑ Best-friend rap battles ¬∑ Couple and family shout-outs ¬∑ Team hype clips ¬∑ Small business promos ¬∑ Holiday greetings
+Birthday roasts · Pet videos · Best-friend rap battles · Couple and family shout-outs · Team hype clips · Small business promos · Holiday greetings
 
 ## Pricing
 
